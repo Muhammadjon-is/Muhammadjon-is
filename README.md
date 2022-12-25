@@ -1,11 +1,15 @@
-### Hi there 👋, my name is Muhammadjon
 
+![I am full-stack developer and ethical hacker](https://github.com/Muhammadjon-is/muhammadjon-is/blob/main/4_2_.jpeg)
+Hi there 👋, I'm Muhammadjon
 ####  Full-stack developer and ethical hacker
-![I am full-stack developer and ethical hacker](https://github.com/Muhammadjon-is/muhammadjon-is/blob/main/4(1).png)
 
-Muhammadjon is 
+I'm Muhammadjon from Uzbekistan currently in Poland, and I'm developer. I really enjoy  learning languages and frameworks like React and Express, as well work with linux
 
-Skills:  REACT / JS / HTML / CSS
+## Skills and Experience 
+* ⚛️ React, Redux, Express, Mongo
+* 🐧 Linux
+* 💻 HTML, CSS, JS, Bootstrap
+
 
 - 🔭 I’m currently working on my personal portfoilo 
 - 🌱 I’m currently learning at Epicode 
