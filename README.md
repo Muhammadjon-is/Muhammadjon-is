@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Muhammadjon
 
 ####  Full-stack developer and ethical hacker
-![I am full-stack developer and ethical hacker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--CAJ3wz7K--%2Ft_Preview%2Fb_rgb%3A191919%2Cc_limit%2Cf_auto%2Ch_630%2Cq_90%2Cw_630%2Fv1588772009%2Fproduction%2Fdesigns%2F9859510_0.jpg&f=1&nofb=1&ipt=1562df50a036ffbd6f9b2dbab103f7cd74ef23daae98940de769328f3b616821&ipo=images)
+![I am full-stack developer and ethical hacker](https://github.com/Muhammadjon-is/muhammadjon-is/blob/main/4(1).png)
 
 Muhammadjon is 
 
