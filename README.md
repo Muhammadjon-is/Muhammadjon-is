@@ -2,11 +2,11 @@
 ![I am full-stack developer and ethical hacker](https://github.com/Muhammadjon-is/muhammadjon-is/blob/main/4_2_.jpeg)
 
 # Hi there 👋, I'm Muhammadjon
-####  Full-stack developer and ethical hacker
+###  Full-stack developer and ethical hacker
 
 I'm Muhammadjon from Uzbekistan currently in Poland, and I'm developer. I really enjoy  learning languages and frameworks like React and Express, as well work with linux
 
-## Skills and Experience 
+### Skills and Experience 
 * ⚛️ React, Redux, Express, Mongo
 * 🐧 Linux
 * 💻 HTML, CSS, JS, Bootstrap
