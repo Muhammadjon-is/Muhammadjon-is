@@ -1,6 +1,15 @@
-Hi there 👋
-I'm Muhammadjon
+### Hi there 👋, my name is Muhammadjon
+#### I am full-stack developer and ethical hacker
+![I am full-stack developer and ethical hacker](https://www.wallpaperflare.com/tux-linux-black-background-simple-background-terminals-wallpaper-ypzwc)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadjon-is)](https://github.com/anuraghazra/github-readme-stats)
+Muhammadjon is 
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 
