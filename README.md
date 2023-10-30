@@ -2,7 +2,7 @@
 ![I am full-stack web developer ](https://github.com/Muhammadjon-is/muhammadjon-is/blob/main/4_2_.jpeg)
 
 # Hi there 👋, I'm Muhammadjon
-###  Full-stack developer and ethical hacker
+## Junior Full-Stack Web Developer specializing in MERN
 
 I'm Muhammadjon from Uzbekistan currently in Poland, and I'm developer. I really enjoy  learning languages and frameworks like React and Express, as well work with linux
 
